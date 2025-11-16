@@ -1,29 +1,59 @@
 <h1 align="center">Hi 👋, I'm Arastu Thakur</h1>
-<h3 align="center">AI & Machine Learning Engineer | LLMs • MLOps • Automation</h3>
+<h3 align="center">AI & Machine Learning Engineer | Generative AI • LLMs • MLOps • Automation</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arastuthakur&label=Profile%20views&color=0e75b6&style=flat" alt="arastuthakur" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arastuthakur&theme=algolia" alt="arastuthakur" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=arastuthakur&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🔥 About Me  
-- 🔭 I’m currently working on **[365 Days of Machine Learning](https://github.com/arastuthakur/365_Days_Of_Machine_Learning)**  
-- 🌱 Currently learning & building with **Large Language Models (LLMs)**  
-- 💬 Ask me about **Python, Data Visualization, and Machine Learning**  
-- 📫 Reach me at **arustuthakur@gmail.com**
+## 🚀 About Me  
+AI & Machine Learning Engineer with hands-on experience at **Intel**, specializing in:
+
+- **Generative AI & Large Language Models (LLMs)**
+- **AI Automation & LLM-driven workflow systems**
+- **MLOps | Model Optimization | Pipeline Deployment**
+- **Computer Vision & Deep Learning**
+- **Data Engineering & Analytics**
+
+I build scalable AI systems, end-to-end ML pipelines, and production-grade automations.
 
 ---
 
+## 🔭 What I’m Working On  
+- Developing **LLM-powered automation pipelines** for validation & analysis  
+- Building **365 Days of Machine Learning** → real-world ML/AI projects  
+- Experimenting with **Model compression, distillation, and optimization**  
 
+---
 
-### 🌐 Connect With Me
+## 🌱 Currently Learning  
+- **Advanced LLMs (RAG, Agents, Finetuning, System Design)**  
+- **Production-grade MLOps (K8s, Docker, CI/CD, Cloud Deployment)**  
+
+---
+
+## 💼 Experience  
+### **Intel – AI/ML Engineer (1.5+ Years)**
+- Built **LLM-powered automated validation system** to accelerate debugging workflows  
+- Developed **real-time analytics dashboards** for system insights  
+- Designed and optimized **deep learning pipelines** for performance and accuracy  
+- Worked across **Generative AI, MLOps, and Python automation**
+
+---
+
+## 💬 Ask Me About  
+**LLMs • ML System Design • MLOps • Python • Automation • Computer Vision**
+
+---
+
+## 📫 Connect / Contact  
+📧 **arustuthakur@gmail.com**  
+🔗 **linkedin.com/in/arastuthakur**
+
+---
+
+## 🌐 Social Profiles
 <p align="left">
 <a href="https://linkedin.com/in/arastuthakur" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -31,45 +61,50 @@
 <a href="https://medium.com/@arustuthakur" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/arustuthakur" target="_blank">
+<a href="https://leetcode.com/arustuthakur" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/arustuthakur" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-</a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  
-<!-- Row 1 -->
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>
-<a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
+## 🛠️ Skills (As Per Resume)
 
-<!-- Row 2 -->
-<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
-<a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/></a>
-<a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
+### **Programming & Scripting**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</p>
 
-<!-- Row 3 -->
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/></a>
-<a href="https://azure.microsoft.com"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></a>
-<a href="https://postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
+### **AI / ML / Deep Learning**
+<p>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+</p>
 
+### **MLOps & Deployment**
+<p>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+</p>
+
+### **Databases & Tools**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Analytics
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arastuthakur&show_icons=true&layout=compact" height="160"/>
 </p>
