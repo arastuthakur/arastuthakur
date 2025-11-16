@@ -68,7 +68,7 @@ I build scalable AI systems, end-to-end ML pipelines, and production-grade autom
 
 ---
 
-## 🛠️ Skills (As Per Resume)
+## 🛠️ Skills 
 
 ### **Programming & Scripting**
 <p>
